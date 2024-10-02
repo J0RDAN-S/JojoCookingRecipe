@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
-  <header class="header"></header>
   <body></body>
 </html>
 
