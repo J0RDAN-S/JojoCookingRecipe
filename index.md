@@ -1,1 +1,1 @@
-[ACCUEIL](index.md) | [LASAGNES](#a-propos) | [NUGGETS](#services) | [TENDERS](#contact) | [TARTIFLETTE]() | [ESCALOPE JURASSIENNE]()
+[ACCUEIL](index.md) | [LASAGNES](lasagnes.md) | [NUGGETS](nuggets.md) | [TENDERS](tenders.md) | [TARTIFLETTE](tartiflette.md) | [ESCALOPE JURASSIENNE](escalope.md)
