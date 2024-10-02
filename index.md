@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
+  <body>
+  </body>
 </html>
 
 [ACCUEIL](index.md) | [LASAGNES](lasagnes.md) | [NUGGETS](nuggets.md) | [TENDERS](tenders.md) | [TARTIFLETTE](tartiflette.md) | [ESCALOPE JURASSIENNE](escalope.md)
