@@ -5,12 +5,12 @@
 ## Ingrédients: (4 personnes)
 * 400g de bœuf haché
 * Pâtes à lasagnes crues
-* 400 ml de sauce tomate (2 briques)
-* 300 ml de béchamel (1 brique et demi)
+* 400ml de sauce tomate (2 briques)
+* 300ml de béchamel (1 brique et demi)
 * 2 oignons
 * 3 gousses d’ail
-* 100 g de parmesan
-* 100 g de fromage râpé
+* 100g de parmesan
+* 100g de fromage râpé
 * Ketchup
 * Sel / Poivre / Paprika
 
