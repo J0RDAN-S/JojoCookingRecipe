@@ -7,7 +7,7 @@
   </head>
   <body>
      <div class="image-container">
-        <img src="IMAGES/LOGO.jpg" class="logo">
+        <<img src="IMAGES/LOGO.png"; position="absolute"; width="100px"; heigh="100px"; top="0"; left="0";>
     </div>
   </body>
 </html>
