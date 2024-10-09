@@ -5,7 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
-  <body></body>
+  <body>
+     <div class="image-container">
+        <img src="IMAGES/LOGO.jpg" class="logo">
+    </div>
+  </body>
 </html>
 
 [ACCUEIL🏠](index.md) | [LASAGNES🍝](lasagnes.md) | [NUGGETS🍗](nuggets.md) | [TENDERS🍗](tenders.md) | [TARTIFLETTE🧀](tartiflette.md) | [ESCALOPE JURASSIENNE🥩](escalope.md) | [GYOZAS🥟](gyozas.md)
