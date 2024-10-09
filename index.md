@@ -1,12 +1,3 @@
-<html>
-  <head>
-    <link rel="shortcut icon" type="x-icon" href="IMAGES/LOGO JOJO.png">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  </head>
-  <body></body>
-</html>
-
 [ACCUEIL🏠](index.md) | [LASAGNES🍝](lasagnes.md) | [NUGGETS🍗](nuggets.md) | [TENDERS🍗](tenders.md) | [TARTIFLETTE🧀](tartiflette.md) | [ESCALOPE JURASSIENNE🥩](escalope.md) | [GYOZAS🥟](gyozas.md)
 
 ### Présentation du chef cuistot
