@@ -6,9 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-     <div class="image-container">
-        <<img src="IMAGES/LOGO.png"; position="absolute"; width="100px"; heigh="100px"; top="0"; left="0";>
-    </div>
+        <img src="IMAGES/LOGO.png"; position="absolute"; width="100px"; heigh="100px"; top="0"; left="0";>
   </body>
 </html>
 
