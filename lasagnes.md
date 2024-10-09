@@ -6,7 +6,7 @@
 * 400g de bœuf haché
 * Pâtes à lasagnes crues
 * 400 ml de sauce tomate (2 briques)
-* 300 g de béchamel (1 brique et demi)
+* 300 ml de béchamel (1 brique et demi)
 * 2 oignons
 * 3 gousses d’ail
 * 100 g de parmesan
