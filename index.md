@@ -1,9 +1,8 @@
 <html>
   <head>
-    <link rel="shortcut icon" type="x-icon" href="DOSSIER IMAGES/LOGO JOJO COOKING.png">
+    <link rel="shortcut icon" type="x-icon" href="IMAGES/LOGO JOJO.png">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body></body>
 </html>
