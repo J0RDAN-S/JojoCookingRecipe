@@ -2,7 +2,7 @@
 
 ![](IMAGES/Lasagnes.jpg)
 
-### Ingrédients: (4 personnes)
+## Ingrédients: (4 personnes)
 * 400g de bœuf haché
 * Pâtes à lasagnes crues
 * 400 ml de sauce tomate (2 briques)
@@ -14,7 +14,7 @@
 * Ketchup
 * Sel / Poivre / Paprika
 
-### Préparation:
+## Préparation:
 **Étape 1: Préparation de la bolognaise**
 > Emincez 2 oignons et faites les revenir dans une poêle avec du beurre salé pendant 5 bonnes minutes à feu moyen. Une fois qu’ils commencent à colorer, ajoutez-y 3 gousses d’ail hachés. Mélangez le tout et laissez 2 minutes supplémentaires. Dans la même poêle, ajoutez les 400g de viande hachée, ajoutez sel, poivre et paprika (optionnel) et laissez cuire. Une fois qu’on ne voit plus le rouge de la viande, laissez s’évaporer l’eau de la viande (car oui, il y a toujours une bonne dose d’eau dans la viande…). Ensuite, ajoutez les 400ml de sauce tomate ainsi que 2 cuillères à soupe de ketchup (pour donner un petit goût sucré à la sauce). Baissez à feu doux, puis laissez sur le feu quelques instants le temps que les saveurs imprègnent la sauce.
 
