@@ -4,7 +4,7 @@
 
 ![](IMAGES/Nuggets.jpg)
 
-## Ingrédients: 
+## Ingrédients: (12 nuggets)
 * 2 filets de poulet (environ 300 g)
 * Farine
 * Maïzena
