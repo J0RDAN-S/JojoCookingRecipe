@@ -15,6 +15,8 @@
 * Huile de sésame grillé
 * Sel / Poivre / Paprika
 
+***
+
 ## Préparation
 **Étape 1: Pâte à gyozas**
 > Dans un saladier, ajoutez 350g de farine, puis ajoutez 1 verre d’eau tiède. Mélangez le tout à la main jusqu’à ce que vous obteniez une boule de pâte plus ou moins élastique (si vous voyez que votre pâte n’a pas une bonne texture, vous pouvez ajouter de la farine ou de l’eau en conséquence). Malaxez votre pâte pendant 5 minutes, puis laissez reposer 30 minutes dans le saladier recouvert d’un torchon sec.
