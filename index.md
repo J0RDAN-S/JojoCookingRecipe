@@ -1,3 +1,13 @@
+<style>
+  body {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), src(IMAGES/LOGO JOJO.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+        }
+</style>
+
+
 [ACCUEIL🏠](index.md) | [LASAGNES🍝](lasagnes.md) | [NUGGETS🍗](nuggets.md) | [TENDERS🍗](tenders.md) | [TARTIFLETTE🧀](tartiflette.md) | [ESCALOPE JURASSIENNE🥩](escalope.md) | [GYOZAS🥟](gyozas.md)
 
 ## Présentation du chef cuistot:
