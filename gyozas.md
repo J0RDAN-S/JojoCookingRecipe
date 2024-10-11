@@ -34,5 +34,5 @@
 ***
 
 ### Avis dégustation en avant-première:
-> ```Oceren DasSaveurs:```
+> ```Oceren DesSaveurs:```
 >> "J'ai goûté les gyozas JojoCooking! Ils étaient excellents, très bien pliés et la farce se mêle parfaitement avec un peu de riz et de sauce ! Itadakimasu! 😋" 
