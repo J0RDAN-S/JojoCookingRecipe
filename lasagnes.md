@@ -1,5 +1,7 @@
 [ACCUEIL🏠](index.md) | [LASAGNES🍝](lasagnes.md) | [NUGGETS🍗](nuggets.md) | [TENDERS🍗](tenders.md) | [TARTIFLETTE🧀](tartiflette.md) | [ESCALOPE JURASSIENNE🥩](escalope.md) | [GYOZAS🥟](gyozas.md)
 
+# LASAGNES
+
 ![](IMAGES/Lasagnes.jpg)
 
 ## Ingrédients: (4 personnes)
