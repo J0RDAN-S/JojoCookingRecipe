@@ -30,3 +30,8 @@
 
 **Étape 4: Cuisson des gyozas**
 > Mettez votre poêle sur le feu à feu moyen et laissez colorer 5 minutes. Une fois ces 5 minutes écoulées, versez de l’eau à mi-hauteur des gyozas et couvrez, puis laissez cuire 7 minutes. Ensuite, enlevez le couvercle, passez à feu fort et laissez l’eau s’évaporer pendant 2 minutes. Après, ajoutez 2 cuillères à soupe d’huile de sésame grillé que vous répartirez uniformément sur tous les gyozas. Laissez sur le feu encore 6 à 7 minutes pour caraméliser et légèrement cramer le dessous des gyozas. Ensuite, retirez la poêle du feu pour laisser refroidir quelques instants (ne surtout pas couvrir au risque de perdre le croustillant des gyozas). Et voilà c’est prêt! Il ne vous reste plus qu’à vous régaler avec vos gyozas que vous pouvez tremper dans la sauce de votre choix!
+
+***
+
+### Avis dégustation en avant-première:
+``` Oceren DasSaveurs: "J'ai goûté les gyozas JojoCooking! Ils étaient excellents, très bien pliés et la farce se mêle parfaitement avec un peu de riz et de sauce ! Itadakimasu! 😋" ```
